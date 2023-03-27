@@ -2,7 +2,8 @@
       <img src="assets/emmanuel.png" width="180" border-radius="100%">
 </p>
 <h2 align="center"> Hi, I'm Emmanuel Asunomeh👋 </h2>
-<h3 align="center">A Passionate Fullstack Developer</h3>
+<h3 align="center">Full-stack Software Engineer and experienced QA Engineer with over 5 years of experience, I possess a comprehensive understanding of software development principles and Agile methodologies.
+Proficient in Java (Spring Boot), Angular, and databases like Postgres, Oracle, and MongoDB, as well as various QA technologies including Cypress, Mockito, Jira, and JMeter, I have a proven track record of delivering high-quality products that exceed customer expectations.</h3>
 
 ---
 
